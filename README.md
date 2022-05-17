@@ -13,15 +13,15 @@ Please make sure you have completed the soot survey at:
 
 Please list the urls for the APIs you used:
 
-Summary of Program:
+Summary of Program: used 2 apis: Pokemon and Amiboo API from games. The api gives info about the type of amiboo and its abilities. It also give the chance of winning for the chosen pokemon. 
 
-Most Challenging topic in the course:
+Most Challenging topic in the course: object oriented programming
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+pikachu has to be spelled in lowercase instead of Pikachu
 
 ## REFERENCES:
- < List any outside resources used >
+google 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+beep
